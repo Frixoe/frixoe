@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Suryansh's github stats](https://github-readme-stats.vercel.app/api?username=frixoe&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/frixoe/frixoe)
+
+[![Suryansh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=frixoe&layout=compact&theme=radical&hide_border=true&count_private=true)](https://github.com/frixoe/frixoe)
+
+![Suryansh's github profile visits](https://komarev.com/ghpvc/?username=frixoe&color=blueviolet)
